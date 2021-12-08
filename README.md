@@ -1,4 +1,5 @@
 # Alura-Inicial-HTML-CSS
+
 First course taken at Alura.com.br about HTML and CSS.
 
 Really basic, focused on learning the principles.
